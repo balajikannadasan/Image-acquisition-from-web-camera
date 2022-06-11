@@ -31,7 +31,10 @@ Now display the by resizing window image.
 ### Step 5:
 Now display the image by rotating it
 <br>
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Program:
 ``` Python
 ### Developed By: K.Balaji
@@ -124,27 +127,51 @@ cv2.destroyAllWindows()
 
 
 ```
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ## Output
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ### i) Write the frame as JPG image
 ![output](./myphoto.jpg)
 </br>
 </br>
 
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ### ii) Display the video
 ![output](./Photo.jpg)
 </br>
 </br>
 
-
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
+<br></br>
 ### iii) Display the video by resizing the window
 ![output](./frame.png)
 </br>
 </br>
 
 
-
+<br></br>
+<br></br>
+<br></br>
 ### iv) Rotate and display the video
 ![output](./bala.jpg)
 </br>
